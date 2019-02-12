@@ -1,0 +1,10 @@
+{
+	"addons": {
+		"": {
+			"updates": [
+				{	"version": "1.2.3",
+					"update_link": "https://github.com/16NoCo/web/raw/master/emoji_modifier-1.2.3-fx.xpi"}
+			]
+		}
+	}
+}
