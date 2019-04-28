@@ -9,7 +9,9 @@
 				{	"version": "1.2.5",
 					"update_link": "https://github.com/16NoCo/web/raw/master/emoji_modifier-1.2.5-fx.xpi"},
 				{	"version": "1.2.6",
-					"update_link": "https://github.com/16NoCo/web/raw/master/emoji_modifier-1.2.6-fx.xpi"}
+					"update_link": "https://github.com/16NoCo/web/raw/master/emoji_modifier-1.2.6-fx.xpi"},
+				{	"version": "1.2.6.1",
+					"update_link": "https://github.com/16NoCo/web/raw/master/emoji_modifier-1.2.6.1-fx.xpi"}
 			]
 		}
 	}
